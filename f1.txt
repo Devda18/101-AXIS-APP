@@ -1,2 +1,2 @@
-Hello
-added line for restore
+Line -1 - to check cloning
+Line 2 - to check staging and push.
